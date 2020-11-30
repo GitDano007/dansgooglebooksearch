@@ -20,4 +20,4 @@ We would like you to have well over 200 commits by graduation, so commit early a
 
 Deploy this application using Heroku, follow our guide on deploying MERN applications to Heroku to do so.
 
-! [] (dansgooglebooksearch.jpg)
+![] (dansgooglebooksearch.jpg)
