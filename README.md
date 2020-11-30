@@ -10,7 +10,6 @@ Committing often is a signal to employers that you are actively working on your 
 
 We use the mantra “commit early and often.”  This means that when you write code that works, add it and commit it!
 
-
 Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
 
 
