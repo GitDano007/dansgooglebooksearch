@@ -19,3 +19,5 @@ When writing a commit message, avoid vague messages like "fixed." Be descriptive
 We would like you to have well over 200 commits by graduation, so commit early and often!
 
 Deploy this application using Heroku, follow our guide on deploying MERN applications to Heroku to do so.
+
+! [](dansgooglebooksearch.jpg)
