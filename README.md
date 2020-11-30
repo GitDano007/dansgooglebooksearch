@@ -12,9 +12,6 @@ We use the mantra “commit early and often.”  This means that when you write 
 
 Numerous commits allow you to see how your app is progressing and give you a point to revert to if anything goes wrong.
 
-
-
-
 Be clear and descriptive in your commit messaging.
 
 When writing a commit message, avoid vague messages like "fixed." Be descriptive so that you and anyone else looking at your repository knows what happened with each commit.
