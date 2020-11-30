@@ -13,7 +13,7 @@ return (
                     <div className="card-body">
                         <h5 className="card-title">By: {props.author}</h5>
                         <p className="card-text">{props.description}</p>
-                        <a href={props.link} className="btn btn-primary">Read Me!</a>
+                        <a href={props.link} className="btn btn-primary">Read!</a>
                         <button className="btn btn-success" onClick={props.saveFunction}
                          data-title={props.title}
                          data-author={props.author}
