@@ -8,7 +8,6 @@ Having an active and healthy commit history on GitHub is important for your futu
 
 Committing often is a signal to employers that you are actively working on your code and learning.
 
-
 We use the mantra “commit early and often.”  This means that when you write code that works, add it and commit it!
 
 
