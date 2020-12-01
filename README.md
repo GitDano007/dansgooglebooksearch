@@ -28,4 +28,8 @@ image - The Book's thumbnail image as returned from the Google Books API
 
 link - The Book's information link as returned from the Google Books API
 
+Heroku: https://vast-basin-21039.herokuapp.com/saved
+GitHub Repo: https://github.com/GitDano007/dansgooglebooksearch
+
+
 ![](dansgooglebooksearch.JPG)
